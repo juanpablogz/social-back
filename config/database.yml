@@ -82,4 +82,6 @@ production:
   <<: *default
   database: d6sljg7sm2cj20
   username: etzxwcrhyzbknq
+  port: 5432
   password: 10925544158e3c5644506d96887b1346b4f2e31fb8410a76b417e18b7dc70c51
+  uri: postgres://etzxwcrhyzbknq:10925544158e3c5644506d96887b1346b4f2e31fb8410a76b417e18b7dc70c51@ec2-54-162-207-150.compute-1.amazonaws.com:5432/d6sljg7sm2cj20
