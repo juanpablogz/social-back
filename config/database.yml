@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: social_back_production
-  username: social_back
-  password: <%= ENV['SOCIAL_BACK_DATABASE_PASSWORD'] %>
+  database: d6sljg7sm2cj20
+  username: etzxwcrhyzbknq
+  password: 10925544158e3c5644506d96887b1346b4f2e31fb8410a76b417e18b7dc70c51
